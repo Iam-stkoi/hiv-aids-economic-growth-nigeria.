@@ -1,0 +1,9 @@
+# Reproducible analysis environment for HIV/AIDS prevalence and economic growth study
+# Package pins for a Python environment used to clean, analyze, and visualize the dataset
+
+pandas==2.2.3
+numpy==2.2.1
+matplotlib==3.9.2
+seaborn==0.13.1
+statsmodels==0.14.4
+jupyter==1.1.1
